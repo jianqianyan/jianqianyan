@@ -16,5 +16,3 @@
 ![Vite](https://img.shields.io/badge/Vite-000?&logo=vite&labelColor=000)
 ![Rollup](https://img.shields.io/badge/Rollup-000?&logo=rollupdotjs&labelColor=000)
 ![Webpack](https://img.shields.io/badge/Webpack-000?&logo=webpack&labelColor=000)
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jianqianyan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
